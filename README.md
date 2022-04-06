@@ -1,3 +1,5 @@
+# Readme
+
 `AltBacktick` is a small Windows program that runs in background and allows to switch between windows of the same program using the keyboard shortcut `ALT`+`` ` ``.  
 
 ![AltBacktick](./demo.gif)
